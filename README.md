@@ -3,7 +3,7 @@
 # **Stater — Moteur d’états pour Unity**
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity%206000.0.58f-57b9d3.svg?style=for-the-badge\&logo=unity)](https://unity3d.com)
-[![Release](https://img.shields.io/github/v/release/Gamagorat/unity-multiscene?style=for-the-badge\&logo=github)](https://github.com/Gamagorat/unity-multiscene/releases)
+[![Release](https://img.shields.io/github/v/release/Gamagorat/unity-statemachine?style=for-the-badge\&logo=github)](https://github.com/Gamagorat/unity-statemachine/releases)
 </div>
 
 **Stater** est un utilitaire léger permettant de définir des machines d’états basées sur des énumérations (**value-types**).
